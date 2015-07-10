@@ -34,6 +34,8 @@ header nav ul li a.btn: hover {
 }
 header .headertext {
   margin-top: 10em;
+  animation-delay: 0.7s;
+  -webkit-animation-delay: 0.7s; /*Safari & Chrome*/
 }
 header h1 {
   color: #fff;
@@ -248,4 +250,3 @@ footer p {
   font-size: 0.7em;
   margin-top: 0.5em;
 }
-
